@@ -13,4 +13,5 @@ public class Post {
         this.author = author;
         this.text = text;
     }
+
 }
